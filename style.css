@@ -1,5 +1,14 @@
-body{
+body {
     background: #eee;
     font-family: 'Exo', sans-serif;
     color: #111;
+}
+
+.wrapper {
+    width: 400px;
+    margin: 10px auto;
+    padding:10px;
+    padding-bottom: 50px;
+    background: #fff;
+
 }
