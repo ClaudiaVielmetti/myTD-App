@@ -10,7 +10,7 @@ body {
     margin: 10px auto;
     padding:10px;
     padding-bottom: 50px;
-    background: #fff;
+  
 
 }
 
@@ -23,3 +23,29 @@ body {
 
 }
 
+.header > div {
+    text-transform: uppercase;
+}
+
+.today {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+.month_year {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    color: #888;
+    font-size: 12px;
+    margin-top: 3px;
+}
+
+.date {
+    font-weight: 900;
+    font-size: 2em;
+    margin-right: 5px;
+}
+
+.year {
+    line-height: 16px;
+}
