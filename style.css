@@ -84,3 +84,8 @@ body {
     background-color: #eee;
     align-self: center;
 }
+
+.listItem.complete span {
+    background-color: green;
+    border-color: chartreuse;
+}
