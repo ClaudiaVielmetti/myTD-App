@@ -19,7 +19,7 @@ body {
     grid-template-columns: 1fr 1fr;
     background: #fff;
     padding: 10px;
-    border: 1px solid purple;
+    border-bottom: 1px solid purple;
     box-shadow: plum;
 
 }
